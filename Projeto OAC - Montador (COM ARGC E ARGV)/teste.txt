@@ -1,0 +1,5 @@
+add $s0, $s1, $s2
+breno: xor $t0, $t1, $a0 #teste
+beq $s0, $k0, breno
+j breno
+label: sw $s0, 4($t0) #aushauhsahusas

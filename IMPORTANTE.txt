@@ -1,0 +1,14 @@
+São duas pastas, uma tem o programa que funciona
+com uma entrada de texto chamada "teste.txt", 
+você pode usa-la para ver como o programa realmente
+funciona
+Pessoalmente eu não cheguei a estudar Argc e Argv 
+em programação, então tentei entender e fazer o que
+pude para executar pelo prompt. Parece ter funcionado,
+mas só consegui bem encima daora (inclusive são 17:57
+agora kk) 
+
+De toda forma o programa atende ao especificado. 
+Na forma sem argc e argv, é gerado um arquivo de saída
+condizente com o que estava presente em "teste.txt".
+Basta executar o "Montar" diretamente
